@@ -14,7 +14,7 @@ A simple and user-friendly note-taking application built with React and Vite.
 
 ## 🚀 Live Demo
 
-Try the app: [Notes App | Vercel](https://notes-app-reactjs.vercel.app/)
+Try the app: [Notes App | Vercel](https://notes-app-reactjs-omega.vercel.app/)
 
 ---
 

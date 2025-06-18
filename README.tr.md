@@ -14,7 +14,7 @@ Basit ve kullanıcı dostu bir not alma uygulamasıdır. React ve Vite kullanıl
 
 ## 🚀 Canlı Demo
 
-Uygulamayı deneyin: [Notes App | Vercel](https://notes-app-reactjs.vercel.app/)
+Uygulamayı deneyin: [Notes App | Vercel](https://notes-app-reactjs-omega.vercel.app/)
 
 ---
 
